@@ -1,5 +1,4 @@
 # API de Tarefas 📝
-
 Este é um projeto de API para gerenciamento de tarefas, desenvolvido com **Node.js** e **Express**.
 
 ## 🚀 Pré-requisitos
@@ -10,7 +9,7 @@ Este é um projeto de API para gerenciamento de tarefas, desenvolvido com **Node
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/R0bertMC/api-tarefas.git
    cd api-tarefas
    ```
 
@@ -101,7 +100,11 @@ O servidor será iniciado em: `http://localhost:3000`
 - **Joi** (validação de dados)
 - **UUID** (geração de IDs únicos)
 - **Nodemon** (recarregamento automático no desenvolvimento)
-=======
-# api-tarefas
-API para gerenciamento de tarefas com Node.js e Express.
 
+## 🌐 Repositório no GitHub
+[API de Tarefas - GitHub](https://github.com/R0bertMC/api-tarefas)
+
+## 👤 Autor
+- **Nome:** Robert Martins 
+- **GitHub:** [R0bertMC](https://github.com/R0bertMC)  
+- **LinkedIn:** [Robert Martins](https://www.linkedin.com/in/robert-martins-7a5ab6296/)
