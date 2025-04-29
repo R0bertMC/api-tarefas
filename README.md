@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Tarefas 📝
 
 Este é um projeto de API para gerenciamento de tarefas, desenvolvido com **Node.js** e **Express**.
@@ -101,3 +102,7 @@ O servidor será iniciado em: `http://localhost:3000`
 - **Joi** (validação de dados)
 - **UUID** (geração de IDs únicos)
 - **Nodemon** (recarregamento automático no desenvolvimento)
+=======
+# api-tarefas
+API para gerenciamento de tarefas com Node.js e Express.
+>>>>>>> 3d512f7e4ff58093bf2dcb488554b9071abc84d6
